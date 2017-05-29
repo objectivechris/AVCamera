@@ -34,5 +34,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>AVCamera needs it to takes pictures.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>AVCamera needs it to saves pictures.</string>
 </dict>
 </plist>

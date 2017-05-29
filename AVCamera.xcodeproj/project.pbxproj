@@ -12,6 +12,7 @@
 		D0A83ADF1EDC8DB2002D1607 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0A83ADD1EDC8DB2002D1607 /* Main.storyboard */; };
 		D0A83AE11EDC8DB2002D1607 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0A83AE01EDC8DB2002D1607 /* Assets.xcassets */; };
 		D0A83AE41EDC8DB2002D1607 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0A83AE21EDC8DB2002D1607 /* LaunchScreen.storyboard */; };
+		D0A83AEC1EDC8EB7002D1607 /* CameraController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A83AEB1EDC8EB7002D1607 /* CameraController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D0A83AE01EDC8DB2002D1607 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D0A83AE31EDC8DB2002D1607 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D0A83AE51EDC8DB2002D1607 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0A83AEB1EDC8EB7002D1607 /* CameraController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CameraController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				D0A83AD91EDC8DB2002D1607 /* AppDelegate.swift */,
 				D0A83ADB1EDC8DB2002D1607 /* ViewController.swift */,
+				D0A83AEB1EDC8EB7002D1607 /* CameraController.swift */,
 				D0A83ADD1EDC8DB2002D1607 /* Main.storyboard */,
 				D0A83AE01EDC8DB2002D1607 /* Assets.xcassets */,
 				D0A83AE21EDC8DB2002D1607 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0A83AEC1EDC8EB7002D1607 /* CameraController.swift in Sources */,
 				D0A83ADC1EDC8DB2002D1607 /* ViewController.swift in Sources */,
 				D0A83ADA1EDC8DB2002D1607 /* AppDelegate.swift in Sources */,
 			);
